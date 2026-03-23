@@ -1,4 +1,12 @@
 {
   "version": "1.0.0",
-  "packages": []
+  "packages": [
+    {
+      "name": "verena",
+      "version": "1.0.0",
+      "description": "Draws a heart in the terminal",
+      "author": "zsombii",
+      "url": "https://pub-b62350e6bf1a400ba28c08b956b97092.r2.dev/verena-1.0.0.zsombiipkg"
+    }
+  ]
 }
