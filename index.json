@@ -7,6 +7,13 @@
       "description": "Draws a heart in the terminal",
       "author": "zsombii",
       "url": "https://pub-b62350e6bf1a400ba28c08b956b97092.r2.dev/verena-1.0.0.zsombiipkg"
+    },
+    {
+    "name": "sl",
+    "version": "1.0.0",
+    "description": "Steam locomotive for mistyping ls",
+    "author": "zsombii",
+    "url": "https://pub-xxx.r2.dev/sl-1.0.0.zsombiipkg"
     }
   ]
 }
