@@ -17,10 +17,10 @@
     },
     {
     "name": "dectobin",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Converts any u128 decimal to binary",
     "author": "zsombii",
-    "url": "https://pub-b62350e6bf1a400ba28c08b956b97092.r2.dev/dectobin-1.0.0.zsombiipkg"
+    "url": "https://pub-b62350e6bf1a400ba28c08b956b97092.r2.dev/dectobin-1.0.1.zsombiipkg"
     }
   ]
 }
